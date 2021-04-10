@@ -1,0 +1,2 @@
+1. Transfer learning from: ssd_mobilenet_v2_quantized_300x300_coco_2019_01_03
+
